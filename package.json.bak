@@ -1,0 +1,20 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "nodeexpress": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.3"
+  }
+}
